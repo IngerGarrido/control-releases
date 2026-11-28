@@ -1,0 +1,1 @@
+import{m as t,R as i}from"./index-CcIu0e7f.js";import{q as h}from"./pages-B-02csG7.js";function l({text:a,q:e}){const m=h(a,e);return t.jsx(t.Fragment,{children:m.map((r,s)=>r.match?t.jsx("mark",{className:"search-hl",children:r.text},s):t.jsx(i.Fragment,{children:r.text},s))})}export{l as H};

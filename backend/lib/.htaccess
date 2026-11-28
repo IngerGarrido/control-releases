@@ -1,0 +1,2 @@
+# Librerías internas: solo se incluyen desde PHP, nunca se sirven por web.
+Require all denied
